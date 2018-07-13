@@ -1,0 +1,20 @@
+Appcrud.datalistActivity, Appcrud;md5c31fe2991dad3c548c27cbb4896a71e6.datalistActivity
+Appcrud.datalistActivity, Appcrud, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c31fe2991dad3c548c27cbb4896a71e6.datalistActivity
+Appcrud.datalistActivity;md5c31fe2991dad3c548c27cbb4896a71e6.datalistActivity
+appcrud.datalistActivity;md5c31fe2991dad3c548c27cbb4896a71e6.datalistActivity
+Appcrud.DetailsActivity, Appcrud;md5c31fe2991dad3c548c27cbb4896a71e6.DetailsActivity
+Appcrud.DetailsActivity, Appcrud, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c31fe2991dad3c548c27cbb4896a71e6.DetailsActivity
+Appcrud.DetailsActivity;md5c31fe2991dad3c548c27cbb4896a71e6.DetailsActivity
+appcrud.DetailsActivity;md5c31fe2991dad3c548c27cbb4896a71e6.DetailsActivity
+Appcrud.insertActivity, Appcrud;md5c31fe2991dad3c548c27cbb4896a71e6.insertActivity
+Appcrud.insertActivity, Appcrud, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c31fe2991dad3c548c27cbb4896a71e6.insertActivity
+Appcrud.insertActivity;md5c31fe2991dad3c548c27cbb4896a71e6.insertActivity
+appcrud.insertActivity;md5c31fe2991dad3c548c27cbb4896a71e6.insertActivity
+Appcrud.MainActivity, Appcrud;md5c31fe2991dad3c548c27cbb4896a71e6.MainActivity
+Appcrud.MainActivity, Appcrud, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c31fe2991dad3c548c27cbb4896a71e6.MainActivity
+Appcrud.MainActivity;md5c31fe2991dad3c548c27cbb4896a71e6.MainActivity
+appcrud.MainActivity;md5c31fe2991dad3c548c27cbb4896a71e6.MainActivity
+Appcrud.UpdateActivity, Appcrud;md5c31fe2991dad3c548c27cbb4896a71e6.UpdateActivity
+Appcrud.UpdateActivity, Appcrud, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c31fe2991dad3c548c27cbb4896a71e6.UpdateActivity
+Appcrud.UpdateActivity;md5c31fe2991dad3c548c27cbb4896a71e6.UpdateActivity
+appcrud.UpdateActivity;md5c31fe2991dad3c548c27cbb4896a71e6.UpdateActivity
